@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <!-- <img alt="Vue logo" src="../assets/logo.png" /> -->
-    <van-button type="primary" size="normal">普通按钮</van-button>
+    首页
     <FooterTabs tab="home" />
   </div>
 </template>
